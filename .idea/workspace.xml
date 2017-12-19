@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7ef105e-2276-4b31-a1c6-a9a6f7fdc471" name="Default" comment="First examples">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/BoundedSelection.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CaptureEventApp.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CounterApp.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FruitsApp.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FruitsSelection.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PhotoGroove.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PhotoGroove_5.2.1.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SettingsApp.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/captureEvent.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/counterApp.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/NoRedInk/elm-decode-pipeline/3.0.0/Json-Decode-Pipeline.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/NoRedInk/elm-decode-pipeline/3.0.0/Json-Decode-Pipeline.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/NoRedInk/elm-decode-pipeline/3.0.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/eeue56/elm-lazy-list/1.0.0/Lazy-List.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/eeue56/elm-lazy-list/1.0.0/Lazy-List.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/eeue56/elm-lazy-list/1.0.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/eeue56/elm-lazy/1.0.0/Lazy.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/eeue56/elm-lazy/1.0.0/Lazy.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/eeue56/elm-lazy/1.0.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/eeue56/elm-shrink/1.0.0/Shrink.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/eeue56/elm-shrink/1.0.0/Shrink.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/eeue56/elm-shrink/1.0.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Expect.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Expect.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Fuzz-Internal.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Fuzz-Internal.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Fuzz.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Fuzz.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/RoseTree.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/RoseTree.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Expectation.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Expectation.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Fuzz.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Fuzz.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Internal.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Internal.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Runner-Failure.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Runner-Failure.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Runner.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Runner.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Util.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Util.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Array.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Array.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Basics.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Basics.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Bitwise.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Bitwise.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Char.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Char.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Color.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Color.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Date.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Date.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Debug.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Debug.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Dict.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Dict.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Decode.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Decode.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Encode.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Encode.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/List.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/List.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Maybe.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Maybe.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Cmd.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Cmd.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Sub.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Sub.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Process.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Process.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Random.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Random.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Regex.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Regex.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Result.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Result.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Set.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Set.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/String.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/String.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Task.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Task.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Time.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Time.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Tuple.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Tuple.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Attributes.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Attributes.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Events.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Events.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Keyed.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Keyed.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Lazy.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Lazy.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/http/1.0.0/Http-Internal.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/http/1.0.0/Http-Internal.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/http/1.0.0/Http-Progress.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/http/1.0.0/Http-Progress.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/http/1.0.0/Http.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/http/1.0.0/Http.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/http/1.0.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Debug.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Debug.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Expando.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Expando.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Helpers.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Helpers.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-History.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-History.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Metadata.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Metadata.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Overlay.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Overlay.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Report.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Report.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.2/Random-Pcg-Interop.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.2/Random-Pcg-Interop.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.2/Random-Pcg.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.2/Random-Pcg.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.2/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/CaptureEventApp.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/CaptureEventApp.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/exact-dependencies.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/examples/Example.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/src/Json/Decode/Pipeline.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/tests/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/tests/Main.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/tests/Tests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy-list/1.0.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy-list/1.0.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy-list/1.0.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy-list/1.0.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy-list/1.0.0/src/Lazy/List.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy-list/1.0.0/tests/Example.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy-list/1.0.0/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy/1.0.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy/1.0.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy/1.0.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy/1.0.0/benchmarks/CoreLazy.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy/1.0.0/benchmarks/Main.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy/1.0.0/benchmarks/Native/Lazy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy/1.0.0/benchmarks/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy/1.0.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy/1.0.0/src/Lazy.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy/1.0.0/tests/Example.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-lazy/1.0.0/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-shrink/1.0.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-shrink/1.0.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-shrink/1.0.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-shrink/1.0.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/eeue56/elm-shrink/1.0.0/src/Shrink.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/benchmarks/Main.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/benchmarks/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/benchmarks/Snippets.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/benchmarks/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Expect.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Float.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Fuzz.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Fuzz/Internal.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/src/RoseTree.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Test.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Test/Expectation.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Test/Fuzz.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Test/Internal.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Test/Runner.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Test/Runner/Failure.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Util.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/FloatWithinTests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/FuzzerTests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/Helpers.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/Main.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/Runner/Log.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/Runner/String.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/Runner/String/Format.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/RunnerTests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/SeedTests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/Tests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/run-tests.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/.eslintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/CONTRIBUTING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/changelog.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Array.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Basics.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Bitwise.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Char.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Color.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Date.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Debug.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Dict.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Json/Decode.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Json/Encode.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/List.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Maybe.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Array.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Basics.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Bitwise.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Char.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Date.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Debug.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Json.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/List.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Platform.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Regex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Scheduler.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/String.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Time.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Utils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform/Cmd.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform/Sub.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Process.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Random.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Regex.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Result.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Set.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/String.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Task.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Time.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/src/Tuple.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Main.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Array.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Basics.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Bitwise.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Char.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/CodeGen.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Dict.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Equality.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Json.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/List.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Maybe.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Regex.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Result.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Set.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/String.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/core/5.1.1/tests/run-tests.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/html/2.0.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/html/2.0.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/html/2.0.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/html/2.0.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/html/2.0.0/properties-vs-attributes.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/html/2.0.0/src/Html.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Attributes.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Events.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Keyed.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Lazy.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/http/1.0.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/http/1.0.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/http/1.0.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/http/1.0.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/http/1.0.0/rate-limit.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/http/1.0.0/src/Http.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/http/1.0.0/src/Http/Internal.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/http/1.0.0/src/Http/Progress.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/http/1.0.0/src/Native/Http.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/Native/Debug.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/Native/VirtualDom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Debug.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Expando.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Helpers.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/History.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Metadata.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Overlay.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Report.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/Native/TestHelpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestCases/Lazy.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestHelpers.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestMain.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/run-tests.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/src/Random/Pcg.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/src/Random/Pcg/Interop.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/benchmark/Bench/Native.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/benchmark/Bencher.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/benchmark/Native/Benchmark.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/benchmark/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/benchmark/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/benchmark/prep-bench.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/benchmark/run-benchmarks.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/bounds.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/dieharder/Dieharder.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/dieharder/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/dieharder/compile.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/dieharder/dieharder-core.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/dieharder/dieharder-pcg.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/dieharder/elm-io.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/dieharder/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/fastForward.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/filterTest.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/independentSeedTest.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/listTest.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/port/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/port/Test.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/port/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/rewind.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elm-test.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fruits.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/settings.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/PhotoGrooveTests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/NoRedInk/elm-decode-pipeline/3.0.0/Json-Decode-Pipeline.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/NoRedInk/elm-decode-pipeline/3.0.0/Json-Decode-Pipeline.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/NoRedInk/elm-decode-pipeline/3.0.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/ElmHtml-Constants.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/ElmHtml-Constants.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/ElmHtml-Helpers.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/ElmHtml-Helpers.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/ElmHtml-InternalTypes.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/ElmHtml-InternalTypes.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/ElmHtml-Markdown.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/ElmHtml-Markdown.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/ElmHtml-ToElmString.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/ElmHtml-ToElmString.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/ElmHtml-ToHtml.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/ElmHtml-ToHtml.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/ElmHtml-ToString.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/ElmHtml-ToString.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.2.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-query/3.0.0/ElmHtml-Query.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-query/3.0.0/ElmHtml-Query.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-query/3.0.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/Html-Inert.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/Html-Inert.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/Test-Html-Descendant.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/Test-Html-Descendant.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/Test-Html-Event.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/Test-Html-Event.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/Test-Html-Query-Internal.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/Test-Html-Query-Internal.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/Test-Html-Query.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/Test-Html-Query.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/Test-Html-Selector-Internal.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/Test-Html-Selector-Internal.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/Test-Html-Selector.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/Test-Html-Selector.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/5.1.1/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-lazy-list/1.0.0/Lazy-List.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-lazy-list/1.0.0/Lazy-List.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-lazy-list/1.0.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-lazy/1.0.0/Lazy.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-lazy/1.0.0/Lazy.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-lazy/1.0.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-shrink/1.0.0/Shrink.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-shrink/1.0.0/Shrink.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-shrink/1.0.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Expect.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Expect.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Fuzz-Internal.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Fuzz-Internal.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Fuzz.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Fuzz.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/RoseTree.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/RoseTree.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Expectation.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Expectation.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Fuzz.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Fuzz.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Internal.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Internal.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Runner-Failure.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Runner-Failure.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Runner.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test-Runner.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Test.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Util.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/Util.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.2.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Array.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Array.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Basics.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Basics.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Bitwise.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Bitwise.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Char.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Char.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Color.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Color.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Date.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Date.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Debug.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Debug.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Dict.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Dict.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Decode.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Decode.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Encode.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Encode.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/List.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/List.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Maybe.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Maybe.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Cmd.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Cmd.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Sub.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Sub.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Process.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Process.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Random.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Random.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Regex.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Regex.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Result.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Result.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Set.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Set.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/String.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/String.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Task.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Task.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Time.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Time.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Tuple.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Tuple.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Attributes.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Attributes.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Events.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Events.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Keyed.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Keyed.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Lazy.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Lazy.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/http/1.0.0/Http-Internal.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/http/1.0.0/Http-Internal.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/http/1.0.0/Http-Progress.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/http/1.0.0/Http-Progress.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/http/1.0.0/Http.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/http/1.0.0/Http.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/http/1.0.0/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Debug.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Debug.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Expando.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Expando.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Helpers.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Helpers.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-History.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-History.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Metadata.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Metadata.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Overlay.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Overlay.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Report.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Report.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.2/Random-Pcg-Interop.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.2/Random-Pcg-Interop.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.2/Random-Pcg.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.2/Random-Pcg.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.2/graph.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Console-Text.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Console-Text.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Example.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Example.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/PhotoGroove.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/PhotoGroove.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/PhotoGrooveTests.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/PhotoGrooveTests.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Generated-Main2473344048.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Generated-Main2473344048.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Generated-Main2524207714.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Generated-Main2524207714.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Generated-Main3180910115.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Generated-Main3180910115.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Generated-Main3865186163.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Generated-Main3865186163.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Generated-Main458807542.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Generated-Main458807542.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-Console-Format-Color.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-Console-Format-Color.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-Console-Format-Monochrome.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-Console-Format-Monochrome.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-Console-Format.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-Console-Format.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-Console.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-Console.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-Highlightable.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-Highlightable.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-JUnit.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-JUnit.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-Json.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-Json.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-Reporter.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-Reporter.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-TestResults.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Reporter-TestResults.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Runner-JsMessage.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Runner-JsMessage.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Runner-Node-App.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Runner-Node-App.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Runner-Node-Vendor-Console.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Runner-Node-Vendor-Console.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Runner-Node-Vendor-Diff.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Runner-Node-Vendor-Diff.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Runner-Node.elmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Test-Runner-Node.elmo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/exact-dependencies.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/examples/Example.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/src/Json/Decode/Pipeline.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/tests/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/tests/Main.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/tests/Tests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/NoRedInk/elm-decode-pipeline/3.0.0/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/src/ElmHtml/Constants.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/src/ElmHtml/Helpers.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/src/ElmHtml/InternalTypes.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/src/ElmHtml/Markdown.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/src/ElmHtml/ToElmString.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/src/ElmHtml/ToHtml.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/src/ElmHtml/ToString.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/tests/Native/HtmlAsJson.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/tests/Tests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.2.0/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-query/3.0.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-query/3.0.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-query/3.0.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-query/3.0.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-query/3.0.0/src/ElmHtml/Query.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/examples/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/examples/ExampleApp.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/examples/FailingTests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/examples/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/src/Html/Inert.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/src/Native/HtmlAsJson.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/src/Test/Html/Descendant.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/src/Test/Html/Event.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/src/Test/Html/Query.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/src/Test/Html/Query/Internal.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/src/Test/Html/Selector.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/src/Test/Html/Selector/Internal.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/tests/Attributes.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/tests/Descendant.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/tests/Events.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/tests/Queries.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/tests/TestExample.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-html-test/5.1.1/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy-list/1.0.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy-list/1.0.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy-list/1.0.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy-list/1.0.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy-list/1.0.0/src/Lazy/List.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy-list/1.0.0/tests/Example.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy-list/1.0.0/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy/1.0.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy/1.0.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy/1.0.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy/1.0.0/benchmarks/CoreLazy.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy/1.0.0/benchmarks/Main.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy/1.0.0/benchmarks/Native/Lazy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy/1.0.0/benchmarks/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy/1.0.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy/1.0.0/src/Lazy.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy/1.0.0/tests/Example.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-lazy/1.0.0/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-shrink/1.0.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-shrink/1.0.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-shrink/1.0.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-shrink/1.0.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/eeue56/elm-shrink/1.0.0/src/Shrink.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/benchmarks/Main.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/benchmarks/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/benchmarks/Snippets.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/benchmarks/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Expect.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Float.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Fuzz.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Fuzz/Internal.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/src/RoseTree.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Test.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Test/Expectation.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Test/Fuzz.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Test/Internal.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Test/Runner.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Test/Runner/Failure.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/src/Util.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/FloatWithinTests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/FuzzerTests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/Helpers.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/Main.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/Runner/Log.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/Runner/String.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/Runner/String/Format.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/RunnerTests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/SeedTests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/Tests.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-community/elm-test/4.2.0/tests/run-tests.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/.eslintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/CONTRIBUTING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/changelog.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Array.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Basics.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Bitwise.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Char.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Color.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Date.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Debug.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Dict.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Json/Decode.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Json/Encode.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/List.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Maybe.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Array.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Basics.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Bitwise.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Char.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Date.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Debug.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Json.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/List.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Platform.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Regex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Scheduler.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/String.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Time.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Utils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform/Cmd.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform/Sub.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Process.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Random.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Regex.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Result.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Set.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/String.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Task.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Time.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Tuple.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Main.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Array.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Basics.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Bitwise.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Char.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/CodeGen.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Dict.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Equality.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Json.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/List.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Maybe.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Regex.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Result.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Set.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/String.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/run-tests.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/html/2.0.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/html/2.0.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/html/2.0.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/html/2.0.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/html/2.0.0/properties-vs-attributes.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/html/2.0.0/src/Html.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Attributes.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Events.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Keyed.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Lazy.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/http/1.0.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/http/1.0.0/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/http/1.0.0/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/http/1.0.0/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/http/1.0.0/rate-limit.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/http/1.0.0/src/Http.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/http/1.0.0/src/Http/Internal.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/http/1.0.0/src/Http/Progress.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/http/1.0.0/src/Native/Http.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/Native/Debug.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/Native/VirtualDom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Debug.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Expando.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Helpers.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/History.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Metadata.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Overlay.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Report.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/Native/TestHelpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestCases/Lazy.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestHelpers.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestMain.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/run-tests.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/src/Random/Pcg.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/src/Random/Pcg/Interop.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/benchmark/Bench/Native.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/benchmark/Bencher.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/benchmark/Native/Benchmark.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/benchmark/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/benchmark/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/benchmark/prep-bench.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/benchmark/run-benchmarks.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/bounds.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/dieharder/Dieharder.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/dieharder/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/dieharder/compile.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/dieharder/dieharder-core.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/dieharder/dieharder-pcg.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/dieharder/elm-io.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/dieharder/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/fastForward.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/filterTest.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/independentSeedTest.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/listTest.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/port/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/port/Test.elm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/port/elm-package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.2/test/rewind.elm" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="captureEvent.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/captureEvent.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="elm-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elm-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v0.12.15/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7ef105e-2276-4b31-a1c6-a9a6f7fdc471" name="Default" comment="" />
+      <created>1513702305431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513702305431</updated>
+      <workItem from="1513702310482" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="305000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="First examples" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+  <component name="designer2.settings">
+    <option name="autodetectServerAddress" value="true" />
+    <option name="serverIp" value="localhost" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/captureEvent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
